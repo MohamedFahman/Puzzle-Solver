@@ -1,9 +1,9 @@
 /*
 
-Author  : M.F.M. FASEEH (E/19/106)
-        : M.H.M. FAHMAN (E/19/105)
+Author  : M.H.M. FAHMAN (E/19/105)
+        : M.F.M. FASEEH (E/19/106)
 
-Topic   : CO222 PROJECT
+Topic   : CO222 : Programming Methodology PROJECT
 
 Group   : GROUP 25
 
